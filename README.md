@@ -1,5 +1,7 @@
 # migrate-to-lodash-es
 
+[![npm version](https://img.shields.io/npm/v/migrate-to-lodash-es.svg)](https://www.npmjs.com/package/migrate-to-lodash-es)
+
 **Easily migrate your JavaScript/TypeScript imports from [`lodash`](https://lodash.com) to [`lodash-es`](https://www.npmjs.com/package/lodash-es)** in seconds.
 
 This CLI tool scans your project files and rewrites:
