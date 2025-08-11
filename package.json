@@ -1,6 +1,6 @@
 {
   "name": "migrate-to-lodash-es",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to migrate JavaScript/TypeScript imports from lodash to lodash-es automatically.",
   "bin": {
     "migrate-to-lodash-es": "./index.js"
@@ -28,7 +28,6 @@
   },
   "author": "Petros Demetriou",
   "license": "MIT",
-  "type": "module",
   "engines": {
     "node": ">=14"
   }
