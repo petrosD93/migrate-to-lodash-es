@@ -1,0 +1,35 @@
+{
+  "name": "migrate-to-lodash-es",
+  "version": "1.0.0",
+  "description": "CLI tool to migrate JavaScript/TypeScript imports from lodash to lodash-es automatically.",
+  "bin": {
+    "migrate-to-lodash-es": "./index.js"
+  },
+  "keywords": [
+    "lodash",
+    "lodash-es",
+    "migration",
+    "cli",
+    "codemod",
+    "esm",
+    "import",
+    "upgrade",
+    "typescript",
+    "refactor",
+    "babel"
+  ],
+  "homepage": "https://github.com/petrosD93/migrate-to-lodash-es",
+  "bugs": {
+    "url": "https://github.com/petrosD93/migrate-to-lodash-es/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petrosD93/migrate-to-lodash-es.git"
+  },
+  "author": "Petros Demetriou",
+  "license": "MIT",
+  "type": "module",
+  "engines": {
+    "node": ">=14"
+  }
+}
