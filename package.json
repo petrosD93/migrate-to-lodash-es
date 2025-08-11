@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "CLI tool to migrate JavaScript/TypeScript imports from lodash to lodash-es automatically.",
   "bin": {
-    "migrate-to-lodash-es": "./index.js"
+    "migrate-to-lodash-es": "index.js"
   },
   "keywords": [
     "lodash",
